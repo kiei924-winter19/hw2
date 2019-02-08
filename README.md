@@ -1,5 +1,5 @@
 # Homework Assignment #2
-## KIEI-924 Fall 2018
+## KIEI-924 Winter 2019
 
 ### Guidelines for submission
 
@@ -7,7 +7,7 @@ From your Cloud9 IDE, grab this repository:
 
 ```
 cd ~/environment
-git clone https://github.com/kiei924-fall18/hw2
+git clone https://github.com/kiei924-winter19/hw2
 cd hw2
 ./cleanup
 ```
