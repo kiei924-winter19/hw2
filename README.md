@@ -16,4 +16,4 @@ This will create a directory called `hw2` in your Cloud9 IDE.
 
 Complete the homework per the instructions in the `hw2.rb` file.
 
-Right-click on the `hw2` folder in the sidebar in Cloud9. Select "Download", which will create a file named `hw2.tar.gz`. Upload this file into Canvas as your submission.
+Right-click on the `hw2` folder in the sidebar in Cloud9. Select "Download", which will create a zip file named `hw2.zip` or `hw2.tar.gz`. Upload this file into Canvas as your submission.
